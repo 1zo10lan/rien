@@ -1,6 +1,0 @@
-$ git clone https://github.com/1zo10lan/1zo10lan.github.io
-$ cd 1zo10lan.github.io
-$ echo "Hello World" > index.html
-$ git add --all
-$ git commit -m "Initial commit"
-$ git push -u origin main
