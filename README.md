@@ -1,1 +1,0 @@
-# 1zo10lan.github.io
